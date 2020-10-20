@@ -31,6 +31,15 @@
 
 ## News
 <details>
+  <summary>20. Oktober 2020</summary>
+ 
+  * Zwei neue Paper im Bereich Forecasting hinzugefügt.
+    * Intermittent Demand Forecasting with Renewal Processes - Türkmen, A. C. et al. (2020)
+    * The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models - Rabanser, S. et al. (2020)
+
+</details>
+
+<details>
   <summary>23. September 2020</summary>
  
   * Lorem Ipsum
@@ -95,7 +104,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     * Graduate Level Course
 
 * [Applied Time Series - ETH Zürich](https://stat.ethz.ch/lectures/ss19/applied-time-series.php#course_materials)
-    *  Graduate Level Course
+    * Graduate Level Course
 
 * [STAT 510: Applied Time Series Analysis - PSU](https://online.stat.psu.edu/statprogram/stat510)
 
@@ -122,26 +131,35 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2020</summary>
 
+  * [Intermittent Demand Forecasting with Renewal Processes - Türkmen, A. C. et al. (2020)](https://arxiv.org/pdf/2010.01550.pdf)
+    * Tags: `Amazon Research`, `Deep Learning`, `Forecasting`
+    
+  * [The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models - Rabanser, S. et al. (2020)](https://arxiv.org/pdf/2005.10111.pdf)
+    * Tabs: `Amazon Research`, `Deep Learning`, `Forecasting` 
+
   * [Neural forecasting:  Introduction and literature overview - Benidis et al. (2020)](https://arxiv.org/pdf/2004.10240.pdf)
-    * Tags: `Amazon Research`, `Deep Learning`
+    * Tags: `Amazon Research`, `Deep Learning`, `Forecasting`
 
   * [N-BEATS: Neural Basis Expansion Analysis for Interpretable Time Series Forecasting - Oreshki et al. (2020)](https://arxiv.org/pdf/1905.10437.pdf)
-    * Tags: `Deep Learning`
-  
+    * Tags: `Deep Learning`, `Forecasting`
+    * Code:
+      * [GluonTS](https://gluon-ts.mxnet.io/api/gluonts/gluonts.model.n_beats.html?highlight=nbeats#gluonts.model.n_beats.NBEATSEstimator)
+      * [Keras & PyTorch](https://github.com/philipperemy/n-beats)
+
   * [Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows - Rasul et al.](https://arxiv.org/pdf/2002.06103.pdf)
-    * Tags: 
+    * Tags: `Deep Learning`, `Forecasting`, `Probabilistic Forecasting`
 
   * [Encoding Time Series as Images for Visual Inspection and Classification Using Tiled Convolutional Neural Networks - Zhiguang Wang and Tim Oates](https://www.researchgate.net/profile/Zhiguang_Wang3/publication/275970614_Encoding_Time_Series_as_Images_for_Visual_Inspection_and_Classification_Using_Tiled_Convolutional_Neural_Networks/links/554ceb960cf21ed2135f5951.pdf)
-    * Tags: 
+    * Tags: `Time Series Classification`, `CNN's` 
   
 
   * [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline - Tang, et al.]( https://arxiv.org/abs/2002.10061)
-    * Tags: `Classification`, `CNN's` 
+    * Tags: `Time Series Classification`, `CNN's` 
     * [Code](https://github.com/Wensi-Tang/OS-CNN/)
 
   * [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting - Shi, et al.](https://arxiv.org/pdf/2002.12135.pdf)
-    * Tags:
-    * Code not yet
+    * Tags: `Deep Learning`, `Forecasting`,
+    * Code: not yet
 
 </details>
 
@@ -267,7 +285,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Airline Passengers dataset](https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv)
 - [Government Finance Statistics](https://data.world/data-society/government-finance-statistics)
 - [Historical Public Debt Data](https://data.world/data-society/historical-public-debt-data)
-- [Kansas City Crime Data](https://data.world/data-society/kansas-city-crime-data)
+- [Kansas City Crimie Data](https://data.world/data-society/kansas-city-crime-data)
 - [NYC Crime Data](https://data.world/data-society/nyc-crime-data)
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 

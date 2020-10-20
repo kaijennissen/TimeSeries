@@ -166,7 +166,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2019</summary>
 
-  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas,  V. Flunkert, J. Gasthau (2019)](https://arxiv.org/pdf/1704.04110.pdf)
+  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas,  V. Flunkert and J. Gasthau (2019)](https://arxiv.org/pdf/1704.04110.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
     * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)
     * [Code - Tensorflow](https://github.com/arrigonialberto86/deepar)
@@ -190,7 +190,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2018</summary>
     
-  * [AR-MDN: Associative and Recurrent Mixture DensityNetworks for eRetail Demand Forecasting - Mukherjee et al. (2018)](https://arxiv.org/pdf/1803.03800.pdf)
+  * [AR-MDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting - Mukherjee et al. (2018)](https://arxiv.org/pdf/1803.03800.pdf)
     * Tags: 
 
 </details>
@@ -202,7 +202,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     * Tags: `Facebook`, `Prophet`, `Probabilistic Forecasting`
     * [Build Facebook's Prophet in PyMC3](https://www.ritchievink.com/blog/2018/10/09/build-facebooks-prophet-in-pymc3-bayesian-time-series-analyis-with-generalized-additive-models/)
   
-  * [Approximate Bayesian Inference in Linear Stat` Space Models for Intermittent Demand Forecasting at Scale - Seeger et. al. (2017)](https://arxiv.org/pdf/1709.07638.pdf)
+  * [Approximate Bayesian Inference in Linear State Space Models for Intermittent Demand Forecasting at Scale - Seeger et al. (2017)](https://arxiv.org/pdf/1709.07638.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`, `Multivariate Forecasting`
 
 </details>

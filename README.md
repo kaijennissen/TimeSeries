@@ -131,6 +131,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2020</summary>
 
+  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas et al. (2020)](https://arxiv.org/pdf/1704.04110.pdf)
+    * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
+    * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)
+    * [Code - Tensorflow](https://github.com/arrigonialberto86/deepar)
+    * [GlunoTS](https://gluon-ts.mxnet.io/api/gluonts/gluonts.model.deepar.html?highlight=deepar#gluonts.model.deepar.DeepAREstimator)
+
+
   * [Intermittent Demand Forecasting with Renewal Processes - Türkmen, A. C. et al. (2020)](https://arxiv.org/pdf/2010.01550.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Forecasting`
     
@@ -153,7 +160,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     * Tags: `Time Series Classification`, `CNN's` 
   
 
-  * [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline - Tang, et al.]( https://arxiv.org/abs/2002.10061)
+  * [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline - Tang, et al.](https://arxiv.org/abs/2002.10061)
     * Tags: `Time Series Classification`, `CNN's` 
     * [Code](https://github.com/Wensi-Tang/OS-CNN/)
 
@@ -166,11 +173,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2019</summary>
 
-  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas,  V. Flunkert and J. Gasthau (2019)](https://arxiv.org/pdf/1704.04110.pdf)
-    * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
-    * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)
-    * [Code - Tensorflow](https://github.com/arrigonialberto86/deepar)
-    * [GlunoTS](https://gluon-ts.mxnet.io/api/gluonts/gluonts.model.deepar.html?highlight=deepar#gluonts.model.deepar.DeepAREstimator)
 
 
   * [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes - Salinas et al. (2019)](https://arxiv.org/pdf/1910.03002.pdf)

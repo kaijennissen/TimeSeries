@@ -11,7 +11,8 @@
 2. [Theory](#Theory)
     1. [Books](#Books)
     2. [Lectures](#Lectures)
-    3. [Other](#Other)
+    3. [Tutorials](#Tutorials)
+    4. [MOOCs](#MOOCs)
 3. [Papers](#Papers)
     1. [2020](#2020)
     2. [2019](#2019)
@@ -20,13 +21,13 @@
 4. [Libraries](#Libraries)
     1. [Python](#Python)
     2. [R](#R)
-2. [Use-Cases](#Use-Cases)
-5. [Competitions](#Comeptitions)
+5. [Use-Cases](#Use-Cases)
+6. [Competitions](#Comeptitions)
     1. [M-Competitions](#M-Competitions)
     2. [Kaggle-Time-Series-Competitions](#Kaggle-Time-Series-Competitions)
-6. [Datasets](#Datasets)
-7. [Conferences](#Conferences)
-8. [Journals](#Journals)
+7. [Datasets](#Datasets)
+8. [Conferences](#Conferences)
+9. [Journals](#Journals)
 </details>
 
 ## News
@@ -108,7 +109,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 * [STAT 510: Applied Time Series Analysis - PSU](https://online.stat.psu.edu/statprogram/stat510)
 
-### Other
+### Tutorials
+  * [Forecasting big time series: theory and practice](https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice)
+
+### MOOCs
 
 - [Time Series Forecasting - Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
 

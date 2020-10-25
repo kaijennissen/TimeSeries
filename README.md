@@ -13,6 +13,7 @@
     2. [Lectures](#Lectures)
     3. [Tutorials](#Tutorials)
     4. [MOOCs](#MOOCs)
+    5. [Videos](#Videos)
 3. [Papers](#Papers)
     1. [2020](#2020)
     2. [2019](#2019)
@@ -129,6 +130,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Time Series Forecasting using Python - Analytic Vidhya](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python)
 
 - [Policy Analysis Using Interrupted Time Series - edx](https://www.edx.org/course/policy-analysis-using-interrupted-time-series)
+
+### Videos
+
+* [Deep Learning: the final Frontier for Time Series Analysis?](https://www.youtube.com/watch?v=XIpui7lvjEg&feature=emb_rel_pause)
+* [Forecasting big time series: theory and practice](https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice)
+* [Deep Learning and Time Series Forecasting for Smarter Energy | PyData London 2019](https://www.youtube.com/watch?v=p6mKFs6HVlg)
 
 ## Papers
 

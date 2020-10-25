@@ -142,6 +142,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2020</summary>
 
+  * [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting - B. Lim et al. (2020)](https://arxiv.org/pdf/1912.09363v3.pdf)
+    * Tags: `Deep Learning`, `Forecasting`, `Transformers`
+  
+  * [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks - Z. WU et al. (2020)](https://arxiv.org/pdf/2005.11650v1.pdf)
+    * Tags: `Deep Learning`, `Multivariate Forecasting`, `Graph Neural Networks` 
+
+
   * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas et al. (2020)](https://arxiv.org/pdf/1704.04110.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
     * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)

@@ -11,7 +11,9 @@
 2. [Theory](#Theory)
     1. [Books](#Books)
     2. [Lectures](#Lectures)
-    3. [Other](#Other)
+    3. [Tutorials](#Tutorials)
+    4. [MOOCs](#MOOCs)
+    5. [Videos](#Videos)
 3. [Papers](#Papers)
     1. [2020](#2020)
     2. [2019](#2019)
@@ -20,13 +22,13 @@
 4. [Libraries](#Libraries)
     1. [Python](#Python)
     2. [R](#R)
-2. [Use-Cases](#Use-Cases)
-5. [Competitions](#Comeptitions)
+5. [Use-Cases](#Use-Cases)
+6. [Competitions](#Comeptitions)
     1. [M-Competitions](#M-Competitions)
     2. [Kaggle-Time-Series-Competitions](#Kaggle-Time-Series-Competitions)
-6. [Datasets](#Datasets)
-7. [Conferences](#Conferences)
-8. [Journals](#Journals)
+7. [Datasets](#Datasets)
+8. [Conferences](#Conferences)
+9. [Journals](#Journals)
 </details>
 
 ## News
@@ -108,7 +110,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 * [STAT 510: Applied Time Series Analysis - PSU](https://online.stat.psu.edu/statprogram/stat510)
 
-### Other
+### Tutorials
+  * [Forecasting big time series: theory and practice](https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice)
+
+### MOOCs
 
 - [Time Series Forecasting - Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
 
@@ -126,10 +131,30 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 - [Policy Analysis Using Interrupted Time Series - edx](https://www.edx.org/course/policy-analysis-using-interrupted-time-series)
 
+### Videos
+
+* [Deep Learning: the final Frontier for Time Series Analysis?](https://www.youtube.com/watch?v=XIpui7lvjEg&feature=emb_rel_pause)
+* [Forecasting big time series: theory and practice](https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice)
+* [Deep Learning and Time Series Forecasting for Smarter Energy | PyData London 2019](https://www.youtube.com/watch?v=p6mKFs6HVlg)
+
 ## Papers
 
 <details>
   <summary>2020</summary>
+
+  * [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting - B. Lim et al. (2020)](https://arxiv.org/pdf/1912.09363v3.pdf)
+    * Tags: `Deep Learning`, `Forecasting`, `Transformers`
+  
+  * [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks - Z. WU et al. (2020)](https://arxiv.org/pdf/2005.11650v1.pdf)
+    * Tags: `Deep Learning`, `Multivariate Forecasting`, `Graph Neural Networks` 
+
+
+  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas et al. (2020)](https://arxiv.org/pdf/1704.04110.pdf)
+    * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
+    * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)
+    * [Code - Tensorflow](https://github.com/arrigonialberto86/deepar)
+    * [GlunoTS](https://gluon-ts.mxnet.io/api/gluonts/gluonts.model.deepar.html?highlight=deepar#gluonts.model.deepar.DeepAREstimator)
+
 
   * [Intermittent Demand Forecasting with Renewal Processes - Türkmen, A. C. et al. (2020)](https://arxiv.org/pdf/2010.01550.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Forecasting`
@@ -156,7 +181,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     * Tags: `Time Series Classification`, `CNN's` 
   
 
-  * [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline - Tang, et al.]( https://arxiv.org/abs/2002.10061)
+  * [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline - Tang, et al.](https://arxiv.org/abs/2002.10061)
     * Tags: `Time Series Classification`, `CNN's` 
     * [Code](https://github.com/Wensi-Tang/OS-CNN/)
 
@@ -169,11 +194,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <details>
   <summary>2019</summary>
 
-  * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks - D. Salinas,  V. Flunkert and J. Gasthau (2019)](https://arxiv.org/pdf/1704.04110.pdf)
-    * Tags: `Amazon Research`, `Deep Learning`, `Probabilistic Forecasting`
-    * [Medium](https://medium.com/@albertoarrigoni/paper-review-code-amazon-deepar-809938a319d9)
-    * [Code - Tensorflow](https://github.com/arrigonialberto86/deepar)
-    * [GlunoTS](https://gluon-ts.mxnet.io/api/gluonts/gluonts.model.deepar.html?highlight=deepar#gluonts.model.deepar.DeepAREstimator)
 
 
   * [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes - Salinas et al. (2019)](https://arxiv.org/pdf/1910.03002.pdf)

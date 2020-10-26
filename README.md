@@ -136,6 +136,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     
   * [The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models - Rabanser, S. et al. (2020)](https://arxiv.org/pdf/2005.10111.pdf)
     * Tabs: `Amazon Research`, `Deep Learning`, `Forecasting` 
+  
+  * [Criteria for classifying forecasting methods - T. Januschowski et al. (2020)](https://www.sciencedirect.com/science/article/pii/S0169207019301529)
+    * Tags:
 
   * [Neural forecasting:  Introduction and literature overview - Benidis et al. (2020)](https://arxiv.org/pdf/2004.10240.pdf)
     * Tags: `Amazon Research`, `Deep Learning`, `Forecasting`

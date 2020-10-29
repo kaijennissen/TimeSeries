@@ -252,7 +252,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * [prophet]()
 * [TODS](https://tods-doc.github.io/)
   * https://arxiv.org/pdf/2009.09822.pdf
-
+*[NeuralProphet](https://github.com/ourownstory/neural_prophet)
 
 #### Code Examples
 
